@@ -5,7 +5,7 @@
 }
 
 .fa-star {
-  color: var(--color-lightgrey);
+  color: var(--color-darkgrey);
 }
 
 .fa-star.active,
