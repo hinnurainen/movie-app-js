@@ -39,6 +39,11 @@
 
 .moviecard__filled__icon {
   visibility: hidden;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  font-size: 3rem;
+  color: var(--color-yellow);
 }
 
 .movie__title {
