@@ -12,6 +12,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: var(--gutter-horizontal);
+  margin: 2rem;
 }
 
 @media only screen and (max-width: 992px) {

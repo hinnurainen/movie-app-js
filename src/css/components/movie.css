@@ -5,6 +5,7 @@
   transition: all ease-out 1s;
   background-color: var(--color-black);
   color: var(--color-white);
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -16,6 +17,8 @@
 
 .movie__img__container {
   overflow: hidden;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .movie__img {
