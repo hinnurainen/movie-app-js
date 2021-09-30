@@ -1,3 +1,5 @@
+[![CI](https://github.com/hinnurainen/movie-app-js/actions/workflows/secondmain.yml/badge.svg)](https://github.com/hinnurainen/movie-app-js/actions/workflows/secondmain.yml)
+
 1.  Install Node JS and NPM in order to use the boilerplate. // Download link: https://nodejs.org/en/download/ //guide link: https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows/
 
         + download Node from its homepage and install it.
